@@ -1,0 +1,1383 @@
+3rd person singular → plural	agit	agunt	audit	audiunt
+3rd person singular → plural	agit	agunt	credit	credunt
+3rd person singular → plural	agit	agunt	ducit	ducunt
+3rd person singular → plural	agit	agunt	est	sunt
+3rd person singular → plural	agit	agunt	iubet	iubent
+3rd person singular → plural	agit	agunt	mittit	mittunt
+3rd person singular → plural	agit	agunt	petit	petunt
+3rd person singular → plural	agit	agunt	ponit	ponunt
+3rd person singular → plural	agit	agunt	potest	possunt
+3rd person singular → plural	agit	agunt	quaerit	quaerunt
+3rd person singular → plural	agit	agunt	reddit	reddunt
+3rd person singular → plural	agit	agunt	sequitur	sequuntur
+3rd person singular → plural	agit	agunt	stat	stant
+3rd person singular → plural	audit	audiunt	ducit	ducunt
+3rd person singular → plural	audit	audiunt	est	sunt
+3rd person singular → plural	audit	audiunt	iubet	iubent
+3rd person singular → plural	audit	audiunt	petit	petunt
+3rd person singular → plural	audit	audiunt	ponit	ponunt
+3rd person singular → plural	audit	audiunt	potest	possunt
+3rd person singular → plural	audit	audiunt	quaerit	quaerunt
+3rd person singular → plural	audit	audiunt	reddit	reddunt
+3rd person singular → plural	audit	audiunt	sequitur	sequuntur
+3rd person singular → plural	audit	audiunt	stat	stant
+3rd person singular → plural	credit	credunt	audit	audiunt
+3rd person singular → plural	credit	credunt	ducit	ducunt
+3rd person singular → plural	credit	credunt	est	sunt
+3rd person singular → plural	credit	credunt	iubet	iubent
+3rd person singular → plural	credit	credunt	mittit	mittunt
+3rd person singular → plural	credit	credunt	petit	petunt
+3rd person singular → plural	credit	credunt	ponit	ponunt
+3rd person singular → plural	credit	credunt	potest	possunt
+3rd person singular → plural	credit	credunt	quaerit	quaerunt
+3rd person singular → plural	credit	credunt	reddit	reddunt
+3rd person singular → plural	credit	credunt	sequitur	sequuntur
+3rd person singular → plural	credit	credunt	stat	stant
+3rd person singular → plural	dat	dant	agit	agunt
+3rd person singular → plural	dat	dant	audit	audiunt
+3rd person singular → plural	dat	dant	credit	credunt
+3rd person singular → plural	dat	dant	dicit	dicunt
+3rd person singular → plural	dat	dant	ducit	ducunt
+3rd person singular → plural	dat	dant	est	sunt
+3rd person singular → plural	dat	dant	facit	faciunt
+3rd person singular → plural	dat	dant	fert	ferunt
+3rd person singular → plural	dat	dant	habet	habent
+3rd person singular → plural	dat	dant	iubet	iubent
+3rd person singular → plural	dat	dant	mittit	mittunt
+3rd person singular → plural	dat	dant	petit	petunt
+3rd person singular → plural	dat	dant	ponit	ponunt
+3rd person singular → plural	dat	dant	potest	possunt
+3rd person singular → plural	dat	dant	quaerit	quaerunt
+3rd person singular → plural	dat	dant	reddit	reddunt
+3rd person singular → plural	dat	dant	sequitur	sequuntur
+3rd person singular → plural	dat	dant	stat	stant
+3rd person singular → plural	dat	dant	venit	veniunt
+3rd person singular → plural	dat	dant	videt	vident
+3rd person singular → plural	dat	dant	vult	volunt
+3rd person singular → plural	dicit	dicunt	agit	agunt
+3rd person singular → plural	dicit	dicunt	audit	audiunt
+3rd person singular → plural	dicit	dicunt	credit	credunt
+3rd person singular → plural	dicit	dicunt	ducit	ducunt
+3rd person singular → plural	dicit	dicunt	est	sunt
+3rd person singular → plural	dicit	dicunt	fert	ferunt
+3rd person singular → plural	dicit	dicunt	habet	habent
+3rd person singular → plural	dicit	dicunt	iubet	iubent
+3rd person singular → plural	dicit	dicunt	mittit	mittunt
+3rd person singular → plural	dicit	dicunt	petit	petunt
+3rd person singular → plural	dicit	dicunt	ponit	ponunt
+3rd person singular → plural	dicit	dicunt	potest	possunt
+3rd person singular → plural	dicit	dicunt	quaerit	quaerunt
+3rd person singular → plural	dicit	dicunt	reddit	reddunt
+3rd person singular → plural	dicit	dicunt	sequitur	sequuntur
+3rd person singular → plural	dicit	dicunt	stat	stant
+3rd person singular → plural	dicit	dicunt	venit	veniunt
+3rd person singular → plural	dicit	dicunt	vult	volunt
+3rd person singular → plural	ducit	ducunt	est	sunt
+3rd person singular → plural	ducit	ducunt	potest	possunt
+3rd person singular → plural	est	sunt	potest	possunt
+3rd person singular → plural	facit	faciunt	agit	agunt
+3rd person singular → plural	facit	faciunt	audit	audiunt
+3rd person singular → plural	facit	faciunt	credit	credunt
+3rd person singular → plural	facit	faciunt	dicit	dicunt
+3rd person singular → plural	facit	faciunt	ducit	ducunt
+3rd person singular → plural	facit	faciunt	est	sunt
+3rd person singular → plural	facit	faciunt	fert	ferunt
+3rd person singular → plural	facit	faciunt	habet	habent
+3rd person singular → plural	facit	faciunt	iubet	iubent
+3rd person singular → plural	facit	faciunt	mittit	mittunt
+3rd person singular → plural	facit	faciunt	petit	petunt
+3rd person singular → plural	facit	faciunt	ponit	ponunt
+3rd person singular → plural	facit	faciunt	potest	possunt
+3rd person singular → plural	facit	faciunt	quaerit	quaerunt
+3rd person singular → plural	facit	faciunt	reddit	reddunt
+3rd person singular → plural	facit	faciunt	sequitur	sequuntur
+3rd person singular → plural	facit	faciunt	stat	stant
+3rd person singular → plural	facit	faciunt	venit	veniunt
+3rd person singular → plural	facit	faciunt	vult	volunt
+3rd person singular → plural	fert	ferunt	agit	agunt
+3rd person singular → plural	fert	ferunt	audit	audiunt
+3rd person singular → plural	fert	ferunt	credit	credunt
+3rd person singular → plural	fert	ferunt	ducit	ducunt
+3rd person singular → plural	fert	ferunt	est	sunt
+3rd person singular → plural	fert	ferunt	iubet	iubent
+3rd person singular → plural	fert	ferunt	mittit	mittunt
+3rd person singular → plural	fert	ferunt	petit	petunt
+3rd person singular → plural	fert	ferunt	ponit	ponunt
+3rd person singular → plural	fert	ferunt	potest	possunt
+3rd person singular → plural	fert	ferunt	quaerit	quaerunt
+3rd person singular → plural	fert	ferunt	reddit	reddunt
+3rd person singular → plural	fert	ferunt	sequitur	sequuntur
+3rd person singular → plural	fert	ferunt	stat	stant
+3rd person singular → plural	fert	ferunt	venit	veniunt
+3rd person singular → plural	fert	ferunt	vult	volunt
+3rd person singular → plural	habet	habent	agit	agunt
+3rd person singular → plural	habet	habent	audit	audiunt
+3rd person singular → plural	habet	habent	credit	credunt
+3rd person singular → plural	habet	habent	ducit	ducunt
+3rd person singular → plural	habet	habent	est	sunt
+3rd person singular → plural	habet	habent	fert	ferunt
+3rd person singular → plural	habet	habent	iubet	iubent
+3rd person singular → plural	habet	habent	mittit	mittunt
+3rd person singular → plural	habet	habent	petit	petunt
+3rd person singular → plural	habet	habent	ponit	ponunt
+3rd person singular → plural	habet	habent	potest	possunt
+3rd person singular → plural	habet	habent	quaerit	quaerunt
+3rd person singular → plural	habet	habent	reddit	reddunt
+3rd person singular → plural	habet	habent	sequitur	sequuntur
+3rd person singular → plural	habet	habent	stat	stant
+3rd person singular → plural	habet	habent	venit	veniunt
+3rd person singular → plural	habet	habent	vult	volunt
+3rd person singular → plural	iubet	iubent	ducit	ducunt
+3rd person singular → plural	iubet	iubent	est	sunt
+3rd person singular → plural	iubet	iubent	ponit	ponunt
+3rd person singular → plural	iubet	iubent	potest	possunt
+3rd person singular → plural	iubet	iubent	quaerit	quaerunt
+3rd person singular → plural	iubet	iubent	reddit	reddunt
+3rd person singular → plural	iubet	iubent	sequitur	sequuntur
+3rd person singular → plural	iubet	iubent	stat	stant
+3rd person singular → plural	mittit	mittunt	audit	audiunt
+3rd person singular → plural	mittit	mittunt	ducit	ducunt
+3rd person singular → plural	mittit	mittunt	est	sunt
+3rd person singular → plural	mittit	mittunt	iubet	iubent
+3rd person singular → plural	mittit	mittunt	petit	petunt
+3rd person singular → plural	mittit	mittunt	ponit	ponunt
+3rd person singular → plural	mittit	mittunt	potest	possunt
+3rd person singular → plural	mittit	mittunt	quaerit	quaerunt
+3rd person singular → plural	mittit	mittunt	reddit	reddunt
+3rd person singular → plural	mittit	mittunt	sequitur	sequuntur
+3rd person singular → plural	mittit	mittunt	stat	stant
+3rd person singular → plural	petit	petunt	ducit	ducunt
+3rd person singular → plural	petit	petunt	est	sunt
+3rd person singular → plural	petit	petunt	iubet	iubent
+3rd person singular → plural	petit	petunt	ponit	ponunt
+3rd person singular → plural	petit	petunt	potest	possunt
+3rd person singular → plural	petit	petunt	quaerit	quaerunt
+3rd person singular → plural	petit	petunt	reddit	reddunt
+3rd person singular → plural	petit	petunt	sequitur	sequuntur
+3rd person singular → plural	petit	petunt	stat	stant
+3rd person singular → plural	ponit	ponunt	ducit	ducunt
+3rd person singular → plural	ponit	ponunt	est	sunt
+3rd person singular → plural	ponit	ponunt	potest	possunt
+3rd person singular → plural	ponit	ponunt	reddit	reddunt
+3rd person singular → plural	quaerit	quaerunt	ducit	ducunt
+3rd person singular → plural	quaerit	quaerunt	est	sunt
+3rd person singular → plural	quaerit	quaerunt	ponit	ponunt
+3rd person singular → plural	quaerit	quaerunt	potest	possunt
+3rd person singular → plural	quaerit	quaerunt	reddit	reddunt
+3rd person singular → plural	reddit	reddunt	ducit	ducunt
+3rd person singular → plural	reddit	reddunt	est	sunt
+3rd person singular → plural	reddit	reddunt	potest	possunt
+3rd person singular → plural	sequitur	sequuntur	ducit	ducunt
+3rd person singular → plural	sequitur	sequuntur	est	sunt
+3rd person singular → plural	sequitur	sequuntur	ponit	ponunt
+3rd person singular → plural	sequitur	sequuntur	potest	possunt
+3rd person singular → plural	sequitur	sequuntur	quaerit	quaerunt
+3rd person singular → plural	sequitur	sequuntur	reddit	reddunt
+3rd person singular → plural	stat	stant	ducit	ducunt
+3rd person singular → plural	stat	stant	est	sunt
+3rd person singular → plural	stat	stant	ponit	ponunt
+3rd person singular → plural	stat	stant	potest	possunt
+3rd person singular → plural	stat	stant	quaerit	quaerunt
+3rd person singular → plural	stat	stant	reddit	reddunt
+3rd person singular → plural	stat	stant	sequitur	sequuntur
+3rd person singular → plural	venit	veniunt	agit	agunt
+3rd person singular → plural	venit	veniunt	audit	audiunt
+3rd person singular → plural	venit	veniunt	credit	credunt
+3rd person singular → plural	venit	veniunt	ducit	ducunt
+3rd person singular → plural	venit	veniunt	est	sunt
+3rd person singular → plural	venit	veniunt	iubet	iubent
+3rd person singular → plural	venit	veniunt	mittit	mittunt
+3rd person singular → plural	venit	veniunt	petit	petunt
+3rd person singular → plural	venit	veniunt	ponit	ponunt
+3rd person singular → plural	venit	veniunt	potest	possunt
+3rd person singular → plural	venit	veniunt	quaerit	quaerunt
+3rd person singular → plural	venit	veniunt	reddit	reddunt
+3rd person singular → plural	venit	veniunt	sequitur	sequuntur
+3rd person singular → plural	venit	veniunt	stat	stant
+3rd person singular → plural	venit	veniunt	vult	volunt
+3rd person singular → plural	videt	vident	agit	agunt
+3rd person singular → plural	videt	vident	audit	audiunt
+3rd person singular → plural	videt	vident	credit	credunt
+3rd person singular → plural	videt	vident	dicit	dicunt
+3rd person singular → plural	videt	vident	ducit	ducunt
+3rd person singular → plural	videt	vident	est	sunt
+3rd person singular → plural	videt	vident	facit	faciunt
+3rd person singular → plural	videt	vident	fert	ferunt
+3rd person singular → plural	videt	vident	habet	habent
+3rd person singular → plural	videt	vident	iubet	iubent
+3rd person singular → plural	videt	vident	mittit	mittunt
+3rd person singular → plural	videt	vident	petit	petunt
+3rd person singular → plural	videt	vident	ponit	ponunt
+3rd person singular → plural	videt	vident	potest	possunt
+3rd person singular → plural	videt	vident	quaerit	quaerunt
+3rd person singular → plural	videt	vident	reddit	reddunt
+3rd person singular → plural	videt	vident	sequitur	sequuntur
+3rd person singular → plural	videt	vident	stat	stant
+3rd person singular → plural	videt	vident	venit	veniunt
+3rd person singular → plural	videt	vident	vult	volunt
+3rd person singular → plural	vult	volunt	agit	agunt
+3rd person singular → plural	vult	volunt	audit	audiunt
+3rd person singular → plural	vult	volunt	credit	credunt
+3rd person singular → plural	vult	volunt	ducit	ducunt
+3rd person singular → plural	vult	volunt	est	sunt
+3rd person singular → plural	vult	volunt	iubet	iubent
+3rd person singular → plural	vult	volunt	mittit	mittunt
+3rd person singular → plural	vult	volunt	petit	petunt
+3rd person singular → plural	vult	volunt	ponit	ponunt
+3rd person singular → plural	vult	volunt	potest	possunt
+3rd person singular → plural	vult	volunt	quaerit	quaerunt
+3rd person singular → plural	vult	volunt	reddit	reddunt
+3rd person singular → plural	vult	volunt	sequitur	sequuntur
+3rd person singular → plural	vult	volunt	stat	stant
+3rd person → 1st person	agit	ago	audit	audio
+3rd person → 1st person	agit	ago	credit	credo
+3rd person → 1st person	agit	ago	est	sum
+3rd person → 1st person	agit	ago	mittit	mitto
+3rd person → 1st person	agit	ago	petit	peto
+3rd person → 1st person	agit	ago	ponit	pono
+3rd person → 1st person	agit	ago	potest	possum
+3rd person → 1st person	agit	ago	quaerit	quaero
+3rd person → 1st person	audit	audio	est	sum
+3rd person → 1st person	audit	audio	petit	peto
+3rd person → 1st person	audit	audio	ponit	pono
+3rd person → 1st person	audit	audio	potest	possum
+3rd person → 1st person	audit	audio	quaerit	quaero
+3rd person → 1st person	credit	credo	audit	audio
+3rd person → 1st person	credit	credo	est	sum
+3rd person → 1st person	credit	credo	mittit	mitto
+3rd person → 1st person	credit	credo	petit	peto
+3rd person → 1st person	credit	credo	ponit	pono
+3rd person → 1st person	credit	credo	potest	possum
+3rd person → 1st person	credit	credo	quaerit	quaero
+3rd person → 1st person	dat	do	agit	ago
+3rd person → 1st person	dat	do	audit	audio
+3rd person → 1st person	dat	do	credit	credo
+3rd person → 1st person	dat	do	dicit	dico
+3rd person → 1st person	dat	do	est	sum
+3rd person → 1st person	dat	do	facit	facio
+3rd person → 1st person	dat	do	fert	fero
+3rd person → 1st person	dat	do	habet	habeo
+3rd person → 1st person	dat	do	mittit	mitto
+3rd person → 1st person	dat	do	petit	peto
+3rd person → 1st person	dat	do	ponit	pono
+3rd person → 1st person	dat	do	potest	possum
+3rd person → 1st person	dat	do	quaerit	quaero
+3rd person → 1st person	dat	do	venit	venio
+3rd person → 1st person	dat	do	videt	video
+3rd person → 1st person	dat	do	vult	volo
+3rd person → 1st person	dicit	dico	agit	ago
+3rd person → 1st person	dicit	dico	audit	audio
+3rd person → 1st person	dicit	dico	credit	credo
+3rd person → 1st person	dicit	dico	est	sum
+3rd person → 1st person	dicit	dico	fert	fero
+3rd person → 1st person	dicit	dico	habet	habeo
+3rd person → 1st person	dicit	dico	mittit	mitto
+3rd person → 1st person	dicit	dico	petit	peto
+3rd person → 1st person	dicit	dico	ponit	pono
+3rd person → 1st person	dicit	dico	potest	possum
+3rd person → 1st person	dicit	dico	quaerit	quaero
+3rd person → 1st person	dicit	dico	venit	venio
+3rd person → 1st person	dicit	dico	vult	volo
+3rd person → 1st person	est	sum	potest	possum
+3rd person → 1st person	facit	facio	agit	ago
+3rd person → 1st person	facit	facio	audit	audio
+3rd person → 1st person	facit	facio	credit	credo
+3rd person → 1st person	facit	facio	dicit	dico
+3rd person → 1st person	facit	facio	est	sum
+3rd person → 1st person	facit	facio	fert	fero
+3rd person → 1st person	facit	facio	habet	habeo
+3rd person → 1st person	facit	facio	mittit	mitto
+3rd person → 1st person	facit	facio	petit	peto
+3rd person → 1st person	facit	facio	ponit	pono
+3rd person → 1st person	facit	facio	potest	possum
+3rd person → 1st person	facit	facio	quaerit	quaero
+3rd person → 1st person	facit	facio	venit	venio
+3rd person → 1st person	facit	facio	vult	volo
+3rd person → 1st person	fert	fero	agit	ago
+3rd person → 1st person	fert	fero	audit	audio
+3rd person → 1st person	fert	fero	credit	credo
+3rd person → 1st person	fert	fero	est	sum
+3rd person → 1st person	fert	fero	mittit	mitto
+3rd person → 1st person	fert	fero	petit	peto
+3rd person → 1st person	fert	fero	ponit	pono
+3rd person → 1st person	fert	fero	potest	possum
+3rd person → 1st person	fert	fero	quaerit	quaero
+3rd person → 1st person	fert	fero	venit	venio
+3rd person → 1st person	fert	fero	vult	volo
+3rd person → 1st person	habet	habeo	agit	ago
+3rd person → 1st person	habet	habeo	audit	audio
+3rd person → 1st person	habet	habeo	credit	credo
+3rd person → 1st person	habet	habeo	est	sum
+3rd person → 1st person	habet	habeo	fert	fero
+3rd person → 1st person	habet	habeo	mittit	mitto
+3rd person → 1st person	habet	habeo	petit	peto
+3rd person → 1st person	habet	habeo	ponit	pono
+3rd person → 1st person	habet	habeo	potest	possum
+3rd person → 1st person	habet	habeo	quaerit	quaero
+3rd person → 1st person	habet	habeo	venit	venio
+3rd person → 1st person	habet	habeo	vult	volo
+3rd person → 1st person	mittit	mitto	audit	audio
+3rd person → 1st person	mittit	mitto	est	sum
+3rd person → 1st person	mittit	mitto	petit	peto
+3rd person → 1st person	mittit	mitto	ponit	pono
+3rd person → 1st person	mittit	mitto	potest	possum
+3rd person → 1st person	mittit	mitto	quaerit	quaero
+3rd person → 1st person	petit	peto	est	sum
+3rd person → 1st person	petit	peto	ponit	pono
+3rd person → 1st person	petit	peto	potest	possum
+3rd person → 1st person	petit	peto	quaerit	quaero
+3rd person → 1st person	ponit	pono	est	sum
+3rd person → 1st person	ponit	pono	potest	possum
+3rd person → 1st person	quaerit	quaero	est	sum
+3rd person → 1st person	quaerit	quaero	ponit	pono
+3rd person → 1st person	quaerit	quaero	potest	possum
+3rd person → 1st person	venit	venio	agit	ago
+3rd person → 1st person	venit	venio	audit	audio
+3rd person → 1st person	venit	venio	credit	credo
+3rd person → 1st person	venit	venio	est	sum
+3rd person → 1st person	venit	venio	mittit	mitto
+3rd person → 1st person	venit	venio	petit	peto
+3rd person → 1st person	venit	venio	ponit	pono
+3rd person → 1st person	venit	venio	potest	possum
+3rd person → 1st person	venit	venio	quaerit	quaero
+3rd person → 1st person	venit	venio	vult	volo
+3rd person → 1st person	videt	video	agit	ago
+3rd person → 1st person	videt	video	audit	audio
+3rd person → 1st person	videt	video	credit	credo
+3rd person → 1st person	videt	video	dicit	dico
+3rd person → 1st person	videt	video	est	sum
+3rd person → 1st person	videt	video	facit	facio
+3rd person → 1st person	videt	video	fert	fero
+3rd person → 1st person	videt	video	habet	habeo
+3rd person → 1st person	videt	video	mittit	mitto
+3rd person → 1st person	videt	video	petit	peto
+3rd person → 1st person	videt	video	ponit	pono
+3rd person → 1st person	videt	video	potest	possum
+3rd person → 1st person	videt	video	quaerit	quaero
+3rd person → 1st person	videt	video	venit	venio
+3rd person → 1st person	videt	video	vult	volo
+3rd person → 1st person	vult	volo	agit	ago
+3rd person → 1st person	vult	volo	audit	audio
+3rd person → 1st person	vult	volo	credit	credo
+3rd person → 1st person	vult	volo	est	sum
+3rd person → 1st person	vult	volo	mittit	mitto
+3rd person → 1st person	vult	volo	petit	peto
+3rd person → 1st person	vult	volo	ponit	pono
+3rd person → 1st person	vult	volo	potest	possum
+3rd person → 1st person	vult	volo	quaerit	quaero
+adjective → adverb	aequus	aeque	liber	libere
+adjective → adverb	aequus	aeque	parvus	parum
+adjective → adverb	aequus	aeque	publicus	publice
+adjective → adverb	aequus	aeque	similis	similiter
+adjective → adverb	altus	alte	aequus	aeque
+adjective → adverb	altus	alte	dignus	digne
+adjective → adverb	altus	alte	facilis	facile
+adjective → adverb	altus	alte	liber	libere
+adjective → adverb	altus	alte	parvus	parum
+adjective → adverb	altus	alte	publicus	publice
+adjective → adverb	altus	alte	similis	similiter
+adjective → adverb	altus	alte	verus	vere
+adjective → adverb	bonus	bene	aequus	aeque
+adjective → adverb	bonus	bene	altus	alte
+adjective → adverb	bonus	bene	certus	certe
+adjective → adverb	bonus	bene	dignus	digne
+adjective → adverb	bonus	bene	facilis	facile
+adjective → adverb	bonus	bene	gravis	graviter
+adjective → adverb	bonus	bene	liber	libere
+adjective → adverb	bonus	bene	longus	longe
+adjective → adverb	bonus	bene	miser	misere
+adjective → adverb	bonus	bene	parvus	parum
+adjective → adverb	bonus	bene	publicus	publice
+adjective → adverb	bonus	bene	similis	similiter
+adjective → adverb	bonus	bene	verus	vere
+adjective → adverb	certus	certe	aequus	aeque
+adjective → adverb	certus	certe	altus	alte
+adjective → adverb	certus	certe	dignus	digne
+adjective → adverb	certus	certe	facilis	facile
+adjective → adverb	certus	certe	liber	libere
+adjective → adverb	certus	certe	parvus	parum
+adjective → adverb	certus	certe	publicus	publice
+adjective → adverb	certus	certe	similis	similiter
+adjective → adverb	certus	certe	verus	vere
+adjective → adverb	dignus	digne	aequus	aeque
+adjective → adverb	dignus	digne	liber	libere
+adjective → adverb	dignus	digne	parvus	parum
+adjective → adverb	dignus	digne	publicus	publice
+adjective → adverb	dignus	digne	similis	similiter
+adjective → adverb	dignus	digne	verus	vere
+adjective → adverb	facilis	facile	aequus	aeque
+adjective → adverb	facilis	facile	dignus	digne
+adjective → adverb	facilis	facile	liber	libere
+adjective → adverb	facilis	facile	parvus	parum
+adjective → adverb	facilis	facile	publicus	publice
+adjective → adverb	facilis	facile	similis	similiter
+adjective → adverb	facilis	facile	verus	vere
+adjective → adverb	gravis	graviter	aequus	aeque
+adjective → adverb	gravis	graviter	altus	alte
+adjective → adverb	gravis	graviter	certus	certe
+adjective → adverb	gravis	graviter	dignus	digne
+adjective → adverb	gravis	graviter	facilis	facile
+adjective → adverb	gravis	graviter	liber	libere
+adjective → adverb	gravis	graviter	longus	longe
+adjective → adverb	gravis	graviter	miser	misere
+adjective → adverb	gravis	graviter	parvus	parum
+adjective → adverb	gravis	graviter	publicus	publice
+adjective → adverb	gravis	graviter	similis	similiter
+adjective → adverb	gravis	graviter	verus	vere
+adjective → adverb	liber	libere	parvus	parum
+adjective → adverb	liber	libere	publicus	publice
+adjective → adverb	liber	libere	similis	similiter
+adjective → adverb	longus	longe	aequus	aeque
+adjective → adverb	longus	longe	altus	alte
+adjective → adverb	longus	longe	certus	certe
+adjective → adverb	longus	longe	dignus	digne
+adjective → adverb	longus	longe	facilis	facile
+adjective → adverb	longus	longe	liber	libere
+adjective → adverb	longus	longe	miser	misere
+adjective → adverb	longus	longe	parvus	parum
+adjective → adverb	longus	longe	publicus	publice
+adjective → adverb	longus	longe	similis	similiter
+adjective → adverb	longus	longe	verus	vere
+adjective → adverb	magnus	magnopere	aequus	aeque
+adjective → adverb	magnus	magnopere	altus	alte
+adjective → adverb	magnus	magnopere	bonus	bene
+adjective → adverb	magnus	magnopere	certus	certe
+adjective → adverb	magnus	magnopere	dignus	digne
+adjective → adverb	magnus	magnopere	facilis	facile
+adjective → adverb	magnus	magnopere	gravis	graviter
+adjective → adverb	magnus	magnopere	liber	libere
+adjective → adverb	magnus	magnopere	longus	longe
+adjective → adverb	magnus	magnopere	miser	misere
+adjective → adverb	magnus	magnopere	parvus	parum
+adjective → adverb	magnus	magnopere	publicus	publice
+adjective → adverb	magnus	magnopere	similis	similiter
+adjective → adverb	magnus	magnopere	verus	vere
+adjective → adverb	miser	misere	aequus	aeque
+adjective → adverb	miser	misere	altus	alte
+adjective → adverb	miser	misere	certus	certe
+adjective → adverb	miser	misere	dignus	digne
+adjective → adverb	miser	misere	facilis	facile
+adjective → adverb	miser	misere	liber	libere
+adjective → adverb	miser	misere	parvus	parum
+adjective → adverb	miser	misere	publicus	publice
+adjective → adverb	miser	misere	similis	similiter
+adjective → adverb	miser	misere	verus	vere
+adjective → adverb	publicus	publice	parvus	parum
+adjective → adverb	publicus	publice	similis	similiter
+adjective → adverb	similis	similiter	parvus	parum
+adjective → adverb	verus	vere	aequus	aeque
+adjective → adverb	verus	vere	liber	libere
+adjective → adverb	verus	vere	parvus	parum
+adjective → adverb	verus	vere	publicus	publice
+adjective → adverb	verus	vere	similis	similiter
+adjectives, comparatives	altus	altior	dignus	dignior
+adjectives, comparatives	altus	altior	facilis	facilior
+adjectives, comparatives	altus	altior	multus	plus
+adjectives, comparatives	altus	altior	parvus	minor
+adjectives, comparatives	bonus	melior	altus	altior
+adjectives, comparatives	bonus	melior	certus	certior
+adjectives, comparatives	bonus	melior	dignus	dignior
+adjectives, comparatives	bonus	melior	facilis	facilior
+adjectives, comparatives	bonus	melior	gravis	gravior
+adjectives, comparatives	bonus	melior	longus	longior
+adjectives, comparatives	bonus	melior	multus	plus
+adjectives, comparatives	bonus	melior	parvus	minor
+adjectives, comparatives	certus	certior	altus	altior
+adjectives, comparatives	certus	certior	dignus	dignior
+adjectives, comparatives	certus	certior	facilis	facilior
+adjectives, comparatives	certus	certior	multus	plus
+adjectives, comparatives	certus	certior	parvus	minor
+adjectives, comparatives	dignus	dignior	multus	plus
+adjectives, comparatives	dignus	dignior	parvus	minor
+adjectives, comparatives	facilis	facilior	dignus	dignior
+adjectives, comparatives	facilis	facilior	multus	plus
+adjectives, comparatives	facilis	facilior	parvus	minor
+adjectives, comparatives	gravis	gravior	altus	altior
+adjectives, comparatives	gravis	gravior	certus	certior
+adjectives, comparatives	gravis	gravior	dignus	dignior
+adjectives, comparatives	gravis	gravior	facilis	facilior
+adjectives, comparatives	gravis	gravior	longus	longior
+adjectives, comparatives	gravis	gravior	multus	plus
+adjectives, comparatives	gravis	gravior	parvus	minor
+adjectives, comparatives	longus	longior	altus	altior
+adjectives, comparatives	longus	longior	certus	certior
+adjectives, comparatives	longus	longior	dignus	dignior
+adjectives, comparatives	longus	longior	facilis	facilior
+adjectives, comparatives	longus	longior	multus	plus
+adjectives, comparatives	longus	longior	parvus	minor
+adjectives, comparatives	magnus	maior	altus	altior
+adjectives, comparatives	magnus	maior	bonus	melior
+adjectives, comparatives	magnus	maior	certus	certior
+adjectives, comparatives	magnus	maior	dignus	dignior
+adjectives, comparatives	magnus	maior	facilis	facilior
+adjectives, comparatives	magnus	maior	gravis	gravior
+adjectives, comparatives	magnus	maior	longus	longior
+adjectives, comparatives	magnus	maior	multus	plus
+adjectives, comparatives	magnus	maior	parvus	minor
+adjectives, comparatives	multus	plus	parvus	minor
+adjectives, opposites	aequus	iniquus	amicus	inimicus
+adjectives, opposites	aequus	iniquus	liber	servus
+adjectives, opposites	aequus	iniquus	publicus	privatus
+adjectives, opposites	aequus	iniquus	similis	dissimilis
+adjectives, opposites	altus	humus	aequus	iniquus
+adjectives, opposites	altus	humus	amicus	inimicus
+adjectives, opposites	altus	humus	dignus	indignus
+adjectives, opposites	altus	humus	facilis	difficilis
+adjectives, opposites	altus	humus	liber	servus
+adjectives, opposites	altus	humus	publicus	privatus
+adjectives, opposites	altus	humus	similis	dissimilis
+adjectives, opposites	altus	humus	totus	nullus
+adjectives, opposites	altus	humus	verus	falsus
+adjectives, opposites	amicus	inimicus	liber	servus
+adjectives, opposites	amicus	inimicus	publicus	privatus
+adjectives, opposites	amicus	inimicus	similis	dissimilis
+adjectives, opposites	bonus	malus	aequus	iniquus
+adjectives, opposites	bonus	malus	altus	humus
+adjectives, opposites	bonus	malus	amicus	inimicus
+adjectives, opposites	bonus	malus	certus	incertus
+adjectives, opposites	bonus	malus	dignus	indignus
+adjectives, opposites	bonus	malus	facilis	difficilis
+adjectives, opposites	bonus	malus	gravis	levis
+adjectives, opposites	bonus	malus	liber	servus
+adjectives, opposites	bonus	malus	longus	brevis
+adjectives, opposites	bonus	malus	miser	laetus
+adjectives, opposites	bonus	malus	novus	vetus
+adjectives, opposites	bonus	malus	primus	ultimus
+adjectives, opposites	bonus	malus	publicus	privatus
+adjectives, opposites	bonus	malus	similis	dissimilis
+adjectives, opposites	bonus	malus	totus	nullus
+adjectives, opposites	bonus	malus	verus	falsus
+adjectives, opposites	certus	incertus	aequus	iniquus
+adjectives, opposites	certus	incertus	altus	humus
+adjectives, opposites	certus	incertus	amicus	inimicus
+adjectives, opposites	certus	incertus	dignus	indignus
+adjectives, opposites	certus	incertus	facilis	difficilis
+adjectives, opposites	certus	incertus	liber	servus
+adjectives, opposites	certus	incertus	publicus	privatus
+adjectives, opposites	certus	incertus	similis	dissimilis
+adjectives, opposites	certus	incertus	totus	nullus
+adjectives, opposites	certus	incertus	verus	falsus
+adjectives, opposites	dignus	indignus	aequus	iniquus
+adjectives, opposites	dignus	indignus	amicus	inimicus
+adjectives, opposites	dignus	indignus	liber	servus
+adjectives, opposites	dignus	indignus	publicus	privatus
+adjectives, opposites	dignus	indignus	similis	dissimilis
+adjectives, opposites	dignus	indignus	verus	falsus
+adjectives, opposites	facilis	difficilis	aequus	iniquus
+adjectives, opposites	facilis	difficilis	amicus	inimicus
+adjectives, opposites	facilis	difficilis	dignus	indignus
+adjectives, opposites	facilis	difficilis	liber	servus
+adjectives, opposites	facilis	difficilis	publicus	privatus
+adjectives, opposites	facilis	difficilis	similis	dissimilis
+adjectives, opposites	facilis	difficilis	totus	nullus
+adjectives, opposites	facilis	difficilis	verus	falsus
+adjectives, opposites	gravis	levis	aequus	iniquus
+adjectives, opposites	gravis	levis	altus	humus
+adjectives, opposites	gravis	levis	amicus	inimicus
+adjectives, opposites	gravis	levis	certus	incertus
+adjectives, opposites	gravis	levis	dignus	indignus
+adjectives, opposites	gravis	levis	facilis	difficilis
+adjectives, opposites	gravis	levis	liber	servus
+adjectives, opposites	gravis	levis	longus	brevis
+adjectives, opposites	gravis	levis	miser	laetus
+adjectives, opposites	gravis	levis	publicus	privatus
+adjectives, opposites	gravis	levis	similis	dissimilis
+adjectives, opposites	gravis	levis	totus	nullus
+adjectives, opposites	gravis	levis	verus	falsus
+adjectives, opposites	liber	servus	publicus	privatus
+adjectives, opposites	liber	servus	similis	dissimilis
+adjectives, opposites	longus	brevis	aequus	iniquus
+adjectives, opposites	longus	brevis	altus	humus
+adjectives, opposites	longus	brevis	amicus	inimicus
+adjectives, opposites	longus	brevis	certus	incertus
+adjectives, opposites	longus	brevis	dignus	indignus
+adjectives, opposites	longus	brevis	facilis	difficilis
+adjectives, opposites	longus	brevis	liber	servus
+adjectives, opposites	longus	brevis	miser	laetus
+adjectives, opposites	longus	brevis	publicus	privatus
+adjectives, opposites	longus	brevis	similis	dissimilis
+adjectives, opposites	longus	brevis	totus	nullus
+adjectives, opposites	longus	brevis	verus	falsus
+adjectives, opposites	magnus	parvus	aequus	iniquus
+adjectives, opposites	magnus	parvus	altus	humus
+adjectives, opposites	magnus	parvus	amicus	inimicus
+adjectives, opposites	magnus	parvus	bonus	malus
+adjectives, opposites	magnus	parvus	certus	incertus
+adjectives, opposites	magnus	parvus	dignus	indignus
+adjectives, opposites	magnus	parvus	facilis	difficilis
+adjectives, opposites	magnus	parvus	gravis	levis
+adjectives, opposites	magnus	parvus	liber	servus
+adjectives, opposites	magnus	parvus	longus	brevis
+adjectives, opposites	magnus	parvus	miser	laetus
+adjectives, opposites	magnus	parvus	novus	vetus
+adjectives, opposites	magnus	parvus	primus	ultimus
+adjectives, opposites	magnus	parvus	publicus	privatus
+adjectives, opposites	magnus	parvus	similis	dissimilis
+adjectives, opposites	magnus	parvus	totus	nullus
+adjectives, opposites	magnus	parvus	verus	falsus
+adjectives, opposites	miser	laetus	aequus	iniquus
+adjectives, opposites	miser	laetus	altus	humus
+adjectives, opposites	miser	laetus	amicus	inimicus
+adjectives, opposites	miser	laetus	certus	incertus
+adjectives, opposites	miser	laetus	dignus	indignus
+adjectives, opposites	miser	laetus	facilis	difficilis
+adjectives, opposites	miser	laetus	liber	servus
+adjectives, opposites	miser	laetus	publicus	privatus
+adjectives, opposites	miser	laetus	similis	dissimilis
+adjectives, opposites	miser	laetus	totus	nullus
+adjectives, opposites	miser	laetus	verus	falsus
+adjectives, opposites	novus	vetus	aequus	iniquus
+adjectives, opposites	novus	vetus	altus	humus
+adjectives, opposites	novus	vetus	amicus	inimicus
+adjectives, opposites	novus	vetus	certus	incertus
+adjectives, opposites	novus	vetus	dignus	indignus
+adjectives, opposites	novus	vetus	facilis	difficilis
+adjectives, opposites	novus	vetus	gravis	levis
+adjectives, opposites	novus	vetus	liber	servus
+adjectives, opposites	novus	vetus	longus	brevis
+adjectives, opposites	novus	vetus	miser	laetus
+adjectives, opposites	novus	vetus	publicus	privatus
+adjectives, opposites	novus	vetus	similis	dissimilis
+adjectives, opposites	novus	vetus	totus	nullus
+adjectives, opposites	novus	vetus	verus	falsus
+adjectives, opposites	omnis	nullus	aequus	iniquus
+adjectives, opposites	omnis	nullus	altus	humus
+adjectives, opposites	omnis	nullus	amicus	inimicus
+adjectives, opposites	omnis	nullus	bonus	malus
+adjectives, opposites	omnis	nullus	certus	incertus
+adjectives, opposites	omnis	nullus	dignus	indignus
+adjectives, opposites	omnis	nullus	facilis	difficilis
+adjectives, opposites	omnis	nullus	gravis	levis
+adjectives, opposites	omnis	nullus	liber	servus
+adjectives, opposites	omnis	nullus	longus	brevis
+adjectives, opposites	omnis	nullus	magnus	parvus
+adjectives, opposites	omnis	nullus	miser	laetus
+adjectives, opposites	omnis	nullus	novus	vetus
+adjectives, opposites	omnis	nullus	primus	ultimus
+adjectives, opposites	omnis	nullus	publicus	privatus
+adjectives, opposites	omnis	nullus	similis	dissimilis
+adjectives, opposites	omnis	nullus	totus	nullus
+adjectives, opposites	omnis	nullus	verus	falsus
+adjectives, opposites	primus	ultimus	aequus	iniquus
+adjectives, opposites	primus	ultimus	altus	humus
+adjectives, opposites	primus	ultimus	amicus	inimicus
+adjectives, opposites	primus	ultimus	certus	incertus
+adjectives, opposites	primus	ultimus	dignus	indignus
+adjectives, opposites	primus	ultimus	facilis	difficilis
+adjectives, opposites	primus	ultimus	gravis	levis
+adjectives, opposites	primus	ultimus	liber	servus
+adjectives, opposites	primus	ultimus	longus	brevis
+adjectives, opposites	primus	ultimus	miser	laetus
+adjectives, opposites	primus	ultimus	novus	vetus
+adjectives, opposites	primus	ultimus	publicus	privatus
+adjectives, opposites	primus	ultimus	similis	dissimilis
+adjectives, opposites	primus	ultimus	totus	nullus
+adjectives, opposites	primus	ultimus	verus	falsus
+adjectives, opposites	publicus	privatus	similis	dissimilis
+adjectives, opposites	totus	nullus	aequus	iniquus
+adjectives, opposites	totus	nullus	amicus	inimicus
+adjectives, opposites	totus	nullus	dignus	indignus
+adjectives, opposites	totus	nullus	liber	servus
+adjectives, opposites	totus	nullus	publicus	privatus
+adjectives, opposites	totus	nullus	similis	dissimilis
+adjectives, opposites	totus	nullus	verus	falsus
+adjectives, opposites	verus	falsus	aequus	iniquus
+adjectives, opposites	verus	falsus	amicus	inimicus
+adjectives, opposites	verus	falsus	liber	servus
+adjectives, opposites	verus	falsus	publicus	privatus
+adjectives, opposites	verus	falsus	similis	dissimilis
+adjectives, superlatives	altus	altissimus	parvus	minimus
+adjectives, superlatives	bonus	optimus	altus	altissimus
+adjectives, superlatives	bonus	optimus	parvus	minimus
+adjectives, superlatives	magnus	maximus	altus	altissimus
+adjectives, superlatives	magnus	maximus	bonus	optimus
+adjectives, superlatives	magnus	maximus	parvus	minimus
+family relationships	avus	avia	nepos	neptis
+family relationships	filius	filia	avus	avia
+family relationships	filius	filia	frater	soror
+family relationships	filius	filia	nepos	neptis
+family relationships	frater	soror	avus	avia
+family relationships	frater	soror	nepos	neptis
+family relationships	pater	mater	avus	avia
+family relationships	pater	mater	filius	filia
+family relationships	pater	mater	frater	soror
+family relationships	pater	mater	nepos	neptis
+masculine → feminine	dominus	domina	magister	magistra
+masculine → feminine	dominus	domina	maritus	uxor
+masculine → feminine	dominus	domina	puer	puella
+masculine → feminine	dominus	domina	senex	anus
+masculine → feminine	dominus	domina	servus	serva
+masculine → feminine	dominus	domina	vir	mulier
+masculine → feminine	magister	magistra	maritus	uxor
+masculine → feminine	magister	magistra	senex	anus
+masculine → feminine	puer	puella	magister	magistra
+masculine → feminine	puer	puella	maritus	uxor
+masculine → feminine	puer	puella	senex	anus
+masculine → feminine	puer	puella	vir	mulier
+masculine → feminine	rex	regina	dominus	domina
+masculine → feminine	rex	regina	magister	magistra
+masculine → feminine	rex	regina	maritus	uxor
+masculine → feminine	rex	regina	puer	puella
+masculine → feminine	rex	regina	senex	anus
+masculine → feminine	rex	regina	servus	serva
+masculine → feminine	rex	regina	vir	mulier
+masculine → feminine	senex	anus	maritus	uxor
+masculine → feminine	servus	serva	magister	magistra
+masculine → feminine	servus	serva	maritus	uxor
+masculine → feminine	servus	serva	puer	puella
+masculine → feminine	servus	serva	senex	anus
+masculine → feminine	servus	serva	vir	mulier
+masculine → feminine	vir	mulier	magister	magistra
+masculine → feminine	vir	mulier	maritus	uxor
+masculine → feminine	vir	mulier	senex	anus
+nouns, singular → plural	amor	amores	animus	animi
+nouns, singular → plural	amor	amores	annus	anni
+nouns, singular → plural	amor	amores	bellum	bella
+nouns, singular → plural	amor	amores	deus	di
+nouns, singular → plural	amor	amores	labor	labores
+nouns, singular → plural	amor	amores	mare	maria
+nouns, singular → plural	amor	amores	nomen	nomina
+nouns, singular → plural	amor	amores	populus	populi
+nouns, singular → plural	amor	amores	rex	reges
+nouns, singular → plural	amor	amores	tempus	tempora
+nouns, singular → plural	amor	amores	verbum	verba
+nouns, singular → plural	amor	amores	vir	viri
+nouns, singular → plural	amor	amores	virtus	virtutes
+nouns, singular → plural	animus	animi	annus	anni
+nouns, singular → plural	animus	animi	bellum	bella
+nouns, singular → plural	animus	animi	deus	di
+nouns, singular → plural	animus	animi	labor	labores
+nouns, singular → plural	animus	animi	mare	maria
+nouns, singular → plural	animus	animi	nomen	nomina
+nouns, singular → plural	animus	animi	populus	populi
+nouns, singular → plural	animus	animi	rex	reges
+nouns, singular → plural	animus	animi	tempus	tempora
+nouns, singular → plural	animus	animi	verbum	verba
+nouns, singular → plural	animus	animi	vir	viri
+nouns, singular → plural	animus	animi	virtus	virtutes
+nouns, singular → plural	annus	anni	bellum	bella
+nouns, singular → plural	annus	anni	labor	labores
+nouns, singular → plural	annus	anni	mare	maria
+nouns, singular → plural	annus	anni	nomen	nomina
+nouns, singular → plural	annus	anni	populus	populi
+nouns, singular → plural	annus	anni	rex	reges
+nouns, singular → plural	annus	anni	tempus	tempora
+nouns, singular → plural	annus	anni	verbum	verba
+nouns, singular → plural	annus	anni	vir	viri
+nouns, singular → plural	annus	anni	virtus	virtutes
+nouns, singular → plural	bellum	bella	labor	labores
+nouns, singular → plural	bellum	bella	mare	maria
+nouns, singular → plural	bellum	bella	nomen	nomina
+nouns, singular → plural	bellum	bella	populus	populi
+nouns, singular → plural	bellum	bella	rex	reges
+nouns, singular → plural	bellum	bella	virtus	virtutes
+nouns, singular → plural	corpus	corpora	amor	amores
+nouns, singular → plural	corpus	corpora	animus	animi
+nouns, singular → plural	corpus	corpora	annus	anni
+nouns, singular → plural	corpus	corpora	bellum	bella
+nouns, singular → plural	corpus	corpora	deus	di
+nouns, singular → plural	corpus	corpora	labor	labores
+nouns, singular → plural	corpus	corpora	mare	maria
+nouns, singular → plural	corpus	corpora	nomen	nomina
+nouns, singular → plural	corpus	corpora	populus	populi
+nouns, singular → plural	corpus	corpora	rex	reges
+nouns, singular → plural	corpus	corpora	tempus	tempora
+nouns, singular → plural	corpus	corpora	verbum	verba
+nouns, singular → plural	corpus	corpora	vir	viri
+nouns, singular → plural	corpus	corpora	virtus	virtutes
+nouns, singular → plural	deus	di	annus	anni
+nouns, singular → plural	deus	di	bellum	bella
+nouns, singular → plural	deus	di	labor	labores
+nouns, singular → plural	deus	di	mare	maria
+nouns, singular → plural	deus	di	nomen	nomina
+nouns, singular → plural	deus	di	populus	populi
+nouns, singular → plural	deus	di	rex	reges
+nouns, singular → plural	deus	di	tempus	tempora
+nouns, singular → plural	deus	di	verbum	verba
+nouns, singular → plural	deus	di	vir	viri
+nouns, singular → plural	deus	di	virtus	virtutes
+nouns, singular → plural	homo	homines	amor	amores
+nouns, singular → plural	homo	homines	animus	animi
+nouns, singular → plural	homo	homines	annus	anni
+nouns, singular → plural	homo	homines	bellum	bella
+nouns, singular → plural	homo	homines	corpus	corpora
+nouns, singular → plural	homo	homines	deus	di
+nouns, singular → plural	homo	homines	labor	labores
+nouns, singular → plural	homo	homines	locus	loci
+nouns, singular → plural	homo	homines	mare	maria
+nouns, singular → plural	homo	homines	mors	mortes
+nouns, singular → plural	homo	homines	nomen	nomina
+nouns, singular → plural	homo	homines	pars	partes
+nouns, singular → plural	homo	homines	pater	patres
+nouns, singular → plural	homo	homines	populus	populi
+nouns, singular → plural	homo	homines	rex	reges
+nouns, singular → plural	homo	homines	tempus	tempora
+nouns, singular → plural	homo	homines	urbs	urbes
+nouns, singular → plural	homo	homines	verbum	verba
+nouns, singular → plural	homo	homines	vir	viri
+nouns, singular → plural	homo	homines	virtus	virtutes
+nouns, singular → plural	labor	labores	mare	maria
+nouns, singular → plural	labor	labores	populus	populi
+nouns, singular → plural	labor	labores	rex	reges
+nouns, singular → plural	labor	labores	virtus	virtutes
+nouns, singular → plural	locus	loci	amor	amores
+nouns, singular → plural	locus	loci	animus	animi
+nouns, singular → plural	locus	loci	annus	anni
+nouns, singular → plural	locus	loci	bellum	bella
+nouns, singular → plural	locus	loci	corpus	corpora
+nouns, singular → plural	locus	loci	deus	di
+nouns, singular → plural	locus	loci	labor	labores
+nouns, singular → plural	locus	loci	mare	maria
+nouns, singular → plural	locus	loci	mors	mortes
+nouns, singular → plural	locus	loci	nomen	nomina
+nouns, singular → plural	locus	loci	populus	populi
+nouns, singular → plural	locus	loci	rex	reges
+nouns, singular → plural	locus	loci	tempus	tempora
+nouns, singular → plural	locus	loci	verbum	verba
+nouns, singular → plural	locus	loci	vir	viri
+nouns, singular → plural	locus	loci	virtus	virtutes
+nouns, singular → plural	mors	mortes	amor	amores
+nouns, singular → plural	mors	mortes	animus	animi
+nouns, singular → plural	mors	mortes	annus	anni
+nouns, singular → plural	mors	mortes	bellum	bella
+nouns, singular → plural	mors	mortes	corpus	corpora
+nouns, singular → plural	mors	mortes	deus	di
+nouns, singular → plural	mors	mortes	labor	labores
+nouns, singular → plural	mors	mortes	mare	maria
+nouns, singular → plural	mors	mortes	nomen	nomina
+nouns, singular → plural	mors	mortes	populus	populi
+nouns, singular → plural	mors	mortes	rex	reges
+nouns, singular → plural	mors	mortes	tempus	tempora
+nouns, singular → plural	mors	mortes	verbum	verba
+nouns, singular → plural	mors	mortes	vir	viri
+nouns, singular → plural	mors	mortes	virtus	virtutes
+nouns, singular → plural	nomen	nomina	labor	labores
+nouns, singular → plural	nomen	nomina	mare	maria
+nouns, singular → plural	nomen	nomina	populus	populi
+nouns, singular → plural	nomen	nomina	rex	reges
+nouns, singular → plural	nomen	nomina	virtus	virtutes
+nouns, singular → plural	pars	partes	amor	amores
+nouns, singular → plural	pars	partes	animus	animi
+nouns, singular → plural	pars	partes	annus	anni
+nouns, singular → plural	pars	partes	bellum	bella
+nouns, singular → plural	pars	partes	corpus	corpora
+nouns, singular → plural	pars	partes	deus	di
+nouns, singular → plural	pars	partes	labor	labores
+nouns, singular → plural	pars	partes	locus	loci
+nouns, singular → plural	pars	partes	mare	maria
+nouns, singular → plural	pars	partes	mors	mortes
+nouns, singular → plural	pars	partes	nomen	nomina
+nouns, singular → plural	pars	partes	pater	patres
+nouns, singular → plural	pars	partes	populus	populi
+nouns, singular → plural	pars	partes	rex	reges
+nouns, singular → plural	pars	partes	tempus	tempora
+nouns, singular → plural	pars	partes	urbs	urbes
+nouns, singular → plural	pars	partes	verbum	verba
+nouns, singular → plural	pars	partes	vir	viri
+nouns, singular → plural	pars	partes	virtus	virtutes
+nouns, singular → plural	pater	patres	amor	amores
+nouns, singular → plural	pater	patres	animus	animi
+nouns, singular → plural	pater	patres	annus	anni
+nouns, singular → plural	pater	patres	bellum	bella
+nouns, singular → plural	pater	patres	corpus	corpora
+nouns, singular → plural	pater	patres	deus	di
+nouns, singular → plural	pater	patres	labor	labores
+nouns, singular → plural	pater	patres	locus	loci
+nouns, singular → plural	pater	patres	mare	maria
+nouns, singular → plural	pater	patres	mors	mortes
+nouns, singular → plural	pater	patres	nomen	nomina
+nouns, singular → plural	pater	patres	populus	populi
+nouns, singular → plural	pater	patres	rex	reges
+nouns, singular → plural	pater	patres	tempus	tempora
+nouns, singular → plural	pater	patres	urbs	urbes
+nouns, singular → plural	pater	patres	verbum	verba
+nouns, singular → plural	pater	patres	vir	viri
+nouns, singular → plural	pater	patres	virtus	virtutes
+nouns, singular → plural	populus	populi	mare	maria
+nouns, singular → plural	rex	reges	mare	maria
+nouns, singular → plural	rex	reges	populus	populi
+nouns, singular → plural	tempus	tempora	bellum	bella
+nouns, singular → plural	tempus	tempora	labor	labores
+nouns, singular → plural	tempus	tempora	mare	maria
+nouns, singular → plural	tempus	tempora	nomen	nomina
+nouns, singular → plural	tempus	tempora	populus	populi
+nouns, singular → plural	tempus	tempora	rex	reges
+nouns, singular → plural	tempus	tempora	vir	viri
+nouns, singular → plural	tempus	tempora	virtus	virtutes
+nouns, singular → plural	urbs	urbes	amor	amores
+nouns, singular → plural	urbs	urbes	animus	animi
+nouns, singular → plural	urbs	urbes	annus	anni
+nouns, singular → plural	urbs	urbes	bellum	bella
+nouns, singular → plural	urbs	urbes	corpus	corpora
+nouns, singular → plural	urbs	urbes	deus	di
+nouns, singular → plural	urbs	urbes	labor	labores
+nouns, singular → plural	urbs	urbes	locus	loci
+nouns, singular → plural	urbs	urbes	mare	maria
+nouns, singular → plural	urbs	urbes	mors	mortes
+nouns, singular → plural	urbs	urbes	nomen	nomina
+nouns, singular → plural	urbs	urbes	populus	populi
+nouns, singular → plural	urbs	urbes	rex	reges
+nouns, singular → plural	urbs	urbes	tempus	tempora
+nouns, singular → plural	urbs	urbes	verbum	verba
+nouns, singular → plural	urbs	urbes	vir	viri
+nouns, singular → plural	urbs	urbes	virtus	virtutes
+nouns, singular → plural	verbum	verba	bellum	bella
+nouns, singular → plural	verbum	verba	labor	labores
+nouns, singular → plural	verbum	verba	mare	maria
+nouns, singular → plural	verbum	verba	nomen	nomina
+nouns, singular → plural	verbum	verba	populus	populi
+nouns, singular → plural	verbum	verba	rex	reges
+nouns, singular → plural	verbum	verba	tempus	tempora
+nouns, singular → plural	verbum	verba	vir	viri
+nouns, singular → plural	verbum	verba	virtus	virtutes
+nouns, singular → plural	vir	viri	bellum	bella
+nouns, singular → plural	vir	viri	labor	labores
+nouns, singular → plural	vir	viri	mare	maria
+nouns, singular → plural	vir	viri	nomen	nomina
+nouns, singular → plural	vir	viri	populus	populi
+nouns, singular → plural	vir	viri	rex	reges
+nouns, singular → plural	vir	viri	virtus	virtutes
+nouns, singular → plural	virtus	virtutes	mare	maria
+nouns, singular → plural	virtus	virtutes	populus	populi
+nouns, singular → plural	virtus	virtutes	rex	reges
+present → imperfect	agit	agebat	audit	audiebat
+present → imperfect	agit	agebat	credit	credebat
+present → imperfect	agit	agebat	ducit	ducebat
+present → imperfect	agit	agebat	est	erat
+present → imperfect	agit	agebat	iubet	iubebat
+present → imperfect	agit	agebat	mittit	mittebat
+present → imperfect	agit	agebat	petit	petebat
+present → imperfect	agit	agebat	ponit	ponebat
+present → imperfect	agit	agebat	potest	poterat
+present → imperfect	agit	agebat	quaerit	quaerebat
+present → imperfect	agit	agebat	sequitur	sequebatur
+present → imperfect	agit	agebat	stat	stabat
+present → imperfect	audit	audiebat	ducit	ducebat
+present → imperfect	audit	audiebat	est	erat
+present → imperfect	audit	audiebat	iubet	iubebat
+present → imperfect	audit	audiebat	petit	petebat
+present → imperfect	audit	audiebat	ponit	ponebat
+present → imperfect	audit	audiebat	potest	poterat
+present → imperfect	audit	audiebat	quaerit	quaerebat
+present → imperfect	audit	audiebat	sequitur	sequebatur
+present → imperfect	audit	audiebat	stat	stabat
+present → imperfect	credit	credebat	audit	audiebat
+present → imperfect	credit	credebat	ducit	ducebat
+present → imperfect	credit	credebat	est	erat
+present → imperfect	credit	credebat	iubet	iubebat
+present → imperfect	credit	credebat	mittit	mittebat
+present → imperfect	credit	credebat	petit	petebat
+present → imperfect	credit	credebat	ponit	ponebat
+present → imperfect	credit	credebat	potest	poterat
+present → imperfect	credit	credebat	quaerit	quaerebat
+present → imperfect	credit	credebat	sequitur	sequebatur
+present → imperfect	credit	credebat	stat	stabat
+present → imperfect	dat	dabat	agit	agebat
+present → imperfect	dat	dabat	audit	audiebat
+present → imperfect	dat	dabat	credit	credebat
+present → imperfect	dat	dabat	dicit	dicebat
+present → imperfect	dat	dabat	ducit	ducebat
+present → imperfect	dat	dabat	est	erat
+present → imperfect	dat	dabat	facit	faciebat
+present → imperfect	dat	dabat	fert	ferebat
+present → imperfect	dat	dabat	habet	habebat
+present → imperfect	dat	dabat	iubet	iubebat
+present → imperfect	dat	dabat	mittit	mittebat
+present → imperfect	dat	dabat	petit	petebat
+present → imperfect	dat	dabat	ponit	ponebat
+present → imperfect	dat	dabat	potest	poterat
+present → imperfect	dat	dabat	quaerit	quaerebat
+present → imperfect	dat	dabat	sequitur	sequebatur
+present → imperfect	dat	dabat	stat	stabat
+present → imperfect	dat	dabat	venit	veniebat
+present → imperfect	dat	dabat	videt	videbat
+present → imperfect	dat	dabat	vult	volebat
+present → imperfect	dicit	dicebat	agit	agebat
+present → imperfect	dicit	dicebat	audit	audiebat
+present → imperfect	dicit	dicebat	credit	credebat
+present → imperfect	dicit	dicebat	ducit	ducebat
+present → imperfect	dicit	dicebat	est	erat
+present → imperfect	dicit	dicebat	fert	ferebat
+present → imperfect	dicit	dicebat	habet	habebat
+present → imperfect	dicit	dicebat	iubet	iubebat
+present → imperfect	dicit	dicebat	mittit	mittebat
+present → imperfect	dicit	dicebat	petit	petebat
+present → imperfect	dicit	dicebat	ponit	ponebat
+present → imperfect	dicit	dicebat	potest	poterat
+present → imperfect	dicit	dicebat	quaerit	quaerebat
+present → imperfect	dicit	dicebat	sequitur	sequebatur
+present → imperfect	dicit	dicebat	stat	stabat
+present → imperfect	dicit	dicebat	venit	veniebat
+present → imperfect	dicit	dicebat	vult	volebat
+present → imperfect	ducit	ducebat	est	erat
+present → imperfect	ducit	ducebat	potest	poterat
+present → imperfect	est	erat	potest	poterat
+present → imperfect	facit	faciebat	agit	agebat
+present → imperfect	facit	faciebat	audit	audiebat
+present → imperfect	facit	faciebat	credit	credebat
+present → imperfect	facit	faciebat	dicit	dicebat
+present → imperfect	facit	faciebat	ducit	ducebat
+present → imperfect	facit	faciebat	est	erat
+present → imperfect	facit	faciebat	fert	ferebat
+present → imperfect	facit	faciebat	habet	habebat
+present → imperfect	facit	faciebat	iubet	iubebat
+present → imperfect	facit	faciebat	mittit	mittebat
+present → imperfect	facit	faciebat	petit	petebat
+present → imperfect	facit	faciebat	ponit	ponebat
+present → imperfect	facit	faciebat	potest	poterat
+present → imperfect	facit	faciebat	quaerit	quaerebat
+present → imperfect	facit	faciebat	sequitur	sequebatur
+present → imperfect	facit	faciebat	stat	stabat
+present → imperfect	facit	faciebat	venit	veniebat
+present → imperfect	facit	faciebat	vult	volebat
+present → imperfect	fert	ferebat	agit	agebat
+present → imperfect	fert	ferebat	audit	audiebat
+present → imperfect	fert	ferebat	credit	credebat
+present → imperfect	fert	ferebat	ducit	ducebat
+present → imperfect	fert	ferebat	est	erat
+present → imperfect	fert	ferebat	iubet	iubebat
+present → imperfect	fert	ferebat	mittit	mittebat
+present → imperfect	fert	ferebat	petit	petebat
+present → imperfect	fert	ferebat	ponit	ponebat
+present → imperfect	fert	ferebat	potest	poterat
+present → imperfect	fert	ferebat	quaerit	quaerebat
+present → imperfect	fert	ferebat	sequitur	sequebatur
+present → imperfect	fert	ferebat	stat	stabat
+present → imperfect	fert	ferebat	venit	veniebat
+present → imperfect	fert	ferebat	vult	volebat
+present → imperfect	habet	habebat	agit	agebat
+present → imperfect	habet	habebat	audit	audiebat
+present → imperfect	habet	habebat	credit	credebat
+present → imperfect	habet	habebat	ducit	ducebat
+present → imperfect	habet	habebat	est	erat
+present → imperfect	habet	habebat	fert	ferebat
+present → imperfect	habet	habebat	iubet	iubebat
+present → imperfect	habet	habebat	mittit	mittebat
+present → imperfect	habet	habebat	petit	petebat
+present → imperfect	habet	habebat	ponit	ponebat
+present → imperfect	habet	habebat	potest	poterat
+present → imperfect	habet	habebat	quaerit	quaerebat
+present → imperfect	habet	habebat	sequitur	sequebatur
+present → imperfect	habet	habebat	stat	stabat
+present → imperfect	habet	habebat	venit	veniebat
+present → imperfect	habet	habebat	vult	volebat
+present → imperfect	iubet	iubebat	ducit	ducebat
+present → imperfect	iubet	iubebat	est	erat
+present → imperfect	iubet	iubebat	ponit	ponebat
+present → imperfect	iubet	iubebat	potest	poterat
+present → imperfect	iubet	iubebat	quaerit	quaerebat
+present → imperfect	iubet	iubebat	sequitur	sequebatur
+present → imperfect	iubet	iubebat	stat	stabat
+present → imperfect	mittit	mittebat	audit	audiebat
+present → imperfect	mittit	mittebat	ducit	ducebat
+present → imperfect	mittit	mittebat	est	erat
+present → imperfect	mittit	mittebat	iubet	iubebat
+present → imperfect	mittit	mittebat	petit	petebat
+present → imperfect	mittit	mittebat	ponit	ponebat
+present → imperfect	mittit	mittebat	potest	poterat
+present → imperfect	mittit	mittebat	quaerit	quaerebat
+present → imperfect	mittit	mittebat	sequitur	sequebatur
+present → imperfect	mittit	mittebat	stat	stabat
+present → imperfect	petit	petebat	ducit	ducebat
+present → imperfect	petit	petebat	est	erat
+present → imperfect	petit	petebat	iubet	iubebat
+present → imperfect	petit	petebat	ponit	ponebat
+present → imperfect	petit	petebat	potest	poterat
+present → imperfect	petit	petebat	quaerit	quaerebat
+present → imperfect	petit	petebat	sequitur	sequebatur
+present → imperfect	petit	petebat	stat	stabat
+present → imperfect	ponit	ponebat	ducit	ducebat
+present → imperfect	ponit	ponebat	est	erat
+present → imperfect	ponit	ponebat	potest	poterat
+present → imperfect	quaerit	quaerebat	ducit	ducebat
+present → imperfect	quaerit	quaerebat	est	erat
+present → imperfect	quaerit	quaerebat	ponit	ponebat
+present → imperfect	quaerit	quaerebat	potest	poterat
+present → imperfect	sequitur	sequebatur	ducit	ducebat
+present → imperfect	sequitur	sequebatur	est	erat
+present → imperfect	sequitur	sequebatur	ponit	ponebat
+present → imperfect	sequitur	sequebatur	potest	poterat
+present → imperfect	sequitur	sequebatur	quaerit	quaerebat
+present → imperfect	stat	stabat	ducit	ducebat
+present → imperfect	stat	stabat	est	erat
+present → imperfect	stat	stabat	ponit	ponebat
+present → imperfect	stat	stabat	potest	poterat
+present → imperfect	stat	stabat	quaerit	quaerebat
+present → imperfect	stat	stabat	sequitur	sequebatur
+present → imperfect	venit	veniebat	agit	agebat
+present → imperfect	venit	veniebat	audit	audiebat
+present → imperfect	venit	veniebat	credit	credebat
+present → imperfect	venit	veniebat	ducit	ducebat
+present → imperfect	venit	veniebat	est	erat
+present → imperfect	venit	veniebat	iubet	iubebat
+present → imperfect	venit	veniebat	mittit	mittebat
+present → imperfect	venit	veniebat	petit	petebat
+present → imperfect	venit	veniebat	ponit	ponebat
+present → imperfect	venit	veniebat	potest	poterat
+present → imperfect	venit	veniebat	quaerit	quaerebat
+present → imperfect	venit	veniebat	sequitur	sequebatur
+present → imperfect	venit	veniebat	stat	stabat
+present → imperfect	venit	veniebat	vult	volebat
+present → imperfect	videt	videbat	agit	agebat
+present → imperfect	videt	videbat	audit	audiebat
+present → imperfect	videt	videbat	credit	credebat
+present → imperfect	videt	videbat	dicit	dicebat
+present → imperfect	videt	videbat	ducit	ducebat
+present → imperfect	videt	videbat	est	erat
+present → imperfect	videt	videbat	facit	faciebat
+present → imperfect	videt	videbat	fert	ferebat
+present → imperfect	videt	videbat	habet	habebat
+present → imperfect	videt	videbat	iubet	iubebat
+present → imperfect	videt	videbat	mittit	mittebat
+present → imperfect	videt	videbat	petit	petebat
+present → imperfect	videt	videbat	ponit	ponebat
+present → imperfect	videt	videbat	potest	poterat
+present → imperfect	videt	videbat	quaerit	quaerebat
+present → imperfect	videt	videbat	sequitur	sequebatur
+present → imperfect	videt	videbat	stat	stabat
+present → imperfect	videt	videbat	venit	veniebat
+present → imperfect	videt	videbat	vult	volebat
+present → imperfect	vult	volebat	agit	agebat
+present → imperfect	vult	volebat	audit	audiebat
+present → imperfect	vult	volebat	credit	credebat
+present → imperfect	vult	volebat	ducit	ducebat
+present → imperfect	vult	volebat	est	erat
+present → imperfect	vult	volebat	iubet	iubebat
+present → imperfect	vult	volebat	mittit	mittebat
+present → imperfect	vult	volebat	petit	petebat
+present → imperfect	vult	volebat	ponit	ponebat
+present → imperfect	vult	volebat	potest	poterat
+present → imperfect	vult	volebat	quaerit	quaerebat
+present → imperfect	vult	volebat	sequitur	sequebatur
+present → imperfect	vult	volebat	stat	stabat
+present → perfect	agit	egit	audit	audivit
+present → perfect	agit	egit	credit	credidit
+present → perfect	agit	egit	ducit	duxit
+present → perfect	agit	egit	est	fuit
+present → perfect	agit	egit	iubet	iussit
+present → perfect	agit	egit	mittit	misit
+present → perfect	agit	egit	petit	petivit
+present → perfect	agit	egit	ponit	posuit
+present → perfect	agit	egit	potest	potuit
+present → perfect	agit	egit	quaerit	quaesivit
+present → perfect	agit	egit	reddit	reddidit
+present → perfect	agit	egit	stat	stetit
+present → perfect	agit	egit	vincit	vicit
+present → perfect	audit	audivit	ducit	duxit
+present → perfect	audit	audivit	est	fuit
+present → perfect	audit	audivit	iubet	iussit
+present → perfect	audit	audivit	petit	petivit
+present → perfect	audit	audivit	ponit	posuit
+present → perfect	audit	audivit	potest	potuit
+present → perfect	audit	audivit	quaerit	quaesivit
+present → perfect	audit	audivit	reddit	reddidit
+present → perfect	audit	audivit	stat	stetit
+present → perfect	audit	audivit	vincit	vicit
+present → perfect	credit	credidit	audit	audivit
+present → perfect	credit	credidit	ducit	duxit
+present → perfect	credit	credidit	est	fuit
+present → perfect	credit	credidit	iubet	iussit
+present → perfect	credit	credidit	mittit	misit
+present → perfect	credit	credidit	petit	petivit
+present → perfect	credit	credidit	ponit	posuit
+present → perfect	credit	credidit	potest	potuit
+present → perfect	credit	credidit	quaerit	quaesivit
+present → perfect	credit	credidit	reddit	reddidit
+present → perfect	credit	credidit	stat	stetit
+present → perfect	credit	credidit	vincit	vicit
+present → perfect	dat	dedit	agit	egit
+present → perfect	dat	dedit	audit	audivit
+present → perfect	dat	dedit	credit	credidit
+present → perfect	dat	dedit	dicit	dixit
+present → perfect	dat	dedit	ducit	duxit
+present → perfect	dat	dedit	est	fuit
+present → perfect	dat	dedit	facit	fecit
+present → perfect	dat	dedit	fert	tulit
+present → perfect	dat	dedit	habet	habuit
+present → perfect	dat	dedit	iubet	iussit
+present → perfect	dat	dedit	mittit	misit
+present → perfect	dat	dedit	petit	petivit
+present → perfect	dat	dedit	ponit	posuit
+present → perfect	dat	dedit	potest	potuit
+present → perfect	dat	dedit	quaerit	quaesivit
+present → perfect	dat	dedit	reddit	reddidit
+present → perfect	dat	dedit	stat	stetit
+present → perfect	dat	dedit	venit	venit
+present → perfect	dat	dedit	videt	vidit
+present → perfect	dat	dedit	vincit	vicit
+present → perfect	dat	dedit	vult	voluit
+present → perfect	dicit	dixit	agit	egit
+present → perfect	dicit	dixit	audit	audivit
+present → perfect	dicit	dixit	credit	credidit
+present → perfect	dicit	dixit	ducit	duxit
+present → perfect	dicit	dixit	est	fuit
+present → perfect	dicit	dixit	fert	tulit
+present → perfect	dicit	dixit	habet	habuit
+present → perfect	dicit	dixit	iubet	iussit
+present → perfect	dicit	dixit	mittit	misit
+present → perfect	dicit	dixit	petit	petivit
+present → perfect	dicit	dixit	ponit	posuit
+present → perfect	dicit	dixit	potest	potuit
+present → perfect	dicit	dixit	quaerit	quaesivit
+present → perfect	dicit	dixit	reddit	reddidit
+present → perfect	dicit	dixit	stat	stetit
+present → perfect	dicit	dixit	venit	venit
+present → perfect	dicit	dixit	vincit	vicit
+present → perfect	dicit	dixit	vult	voluit
+present → perfect	ducit	duxit	est	fuit
+present → perfect	ducit	duxit	potest	potuit
+present → perfect	est	fuit	potest	potuit
+present → perfect	facit	fecit	agit	egit
+present → perfect	facit	fecit	audit	audivit
+present → perfect	facit	fecit	credit	credidit
+present → perfect	facit	fecit	dicit	dixit
+present → perfect	facit	fecit	ducit	duxit
+present → perfect	facit	fecit	est	fuit
+present → perfect	facit	fecit	fert	tulit
+present → perfect	facit	fecit	habet	habuit
+present → perfect	facit	fecit	iubet	iussit
+present → perfect	facit	fecit	mittit	misit
+present → perfect	facit	fecit	petit	petivit
+present → perfect	facit	fecit	ponit	posuit
+present → perfect	facit	fecit	potest	potuit
+present → perfect	facit	fecit	quaerit	quaesivit
+present → perfect	facit	fecit	reddit	reddidit
+present → perfect	facit	fecit	stat	stetit
+present → perfect	facit	fecit	venit	venit
+present → perfect	facit	fecit	vincit	vicit
+present → perfect	facit	fecit	vult	voluit
+present → perfect	fert	tulit	agit	egit
+present → perfect	fert	tulit	audit	audivit
+present → perfect	fert	tulit	credit	credidit
+present → perfect	fert	tulit	ducit	duxit
+present → perfect	fert	tulit	est	fuit
+present → perfect	fert	tulit	iubet	iussit
+present → perfect	fert	tulit	mittit	misit
+present → perfect	fert	tulit	petit	petivit
+present → perfect	fert	tulit	ponit	posuit
+present → perfect	fert	tulit	potest	potuit
+present → perfect	fert	tulit	quaerit	quaesivit
+present → perfect	fert	tulit	reddit	reddidit
+present → perfect	fert	tulit	stat	stetit
+present → perfect	fert	tulit	venit	venit
+present → perfect	fert	tulit	vincit	vicit
+present → perfect	fert	tulit	vult	voluit
+present → perfect	habet	habuit	agit	egit
+present → perfect	habet	habuit	audit	audivit
+present → perfect	habet	habuit	credit	credidit
+present → perfect	habet	habuit	ducit	duxit
+present → perfect	habet	habuit	est	fuit
+present → perfect	habet	habuit	fert	tulit
+present → perfect	habet	habuit	iubet	iussit
+present → perfect	habet	habuit	mittit	misit
+present → perfect	habet	habuit	petit	petivit
+present → perfect	habet	habuit	ponit	posuit
+present → perfect	habet	habuit	potest	potuit
+present → perfect	habet	habuit	quaerit	quaesivit
+present → perfect	habet	habuit	reddit	reddidit
+present → perfect	habet	habuit	stat	stetit
+present → perfect	habet	habuit	venit	venit
+present → perfect	habet	habuit	vincit	vicit
+present → perfect	habet	habuit	vult	voluit
+present → perfect	iubet	iussit	ducit	duxit
+present → perfect	iubet	iussit	est	fuit
+present → perfect	iubet	iussit	ponit	posuit
+present → perfect	iubet	iussit	potest	potuit
+present → perfect	iubet	iussit	quaerit	quaesivit
+present → perfect	iubet	iussit	reddit	reddidit
+present → perfect	iubet	iussit	stat	stetit
+present → perfect	iubet	iussit	vincit	vicit
+present → perfect	mittit	misit	audit	audivit
+present → perfect	mittit	misit	ducit	duxit
+present → perfect	mittit	misit	est	fuit
+present → perfect	mittit	misit	iubet	iussit
+present → perfect	mittit	misit	petit	petivit
+present → perfect	mittit	misit	ponit	posuit
+present → perfect	mittit	misit	potest	potuit
+present → perfect	mittit	misit	quaerit	quaesivit
+present → perfect	mittit	misit	reddit	reddidit
+present → perfect	mittit	misit	stat	stetit
+present → perfect	mittit	misit	vincit	vicit
+present → perfect	petit	petivit	ducit	duxit
+present → perfect	petit	petivit	est	fuit
+present → perfect	petit	petivit	iubet	iussit
+present → perfect	petit	petivit	ponit	posuit
+present → perfect	petit	petivit	potest	potuit
+present → perfect	petit	petivit	quaerit	quaesivit
+present → perfect	petit	petivit	reddit	reddidit
+present → perfect	petit	petivit	stat	stetit
+present → perfect	petit	petivit	vincit	vicit
+present → perfect	ponit	posuit	ducit	duxit
+present → perfect	ponit	posuit	est	fuit
+present → perfect	ponit	posuit	potest	potuit
+present → perfect	ponit	posuit	reddit	reddidit
+present → perfect	ponit	posuit	vincit	vicit
+present → perfect	quaerit	quaesivit	ducit	duxit
+present → perfect	quaerit	quaesivit	est	fuit
+present → perfect	quaerit	quaesivit	ponit	posuit
+present → perfect	quaerit	quaesivit	potest	potuit
+present → perfect	quaerit	quaesivit	reddit	reddidit
+present → perfect	quaerit	quaesivit	vincit	vicit
+present → perfect	reddit	reddidit	ducit	duxit
+present → perfect	reddit	reddidit	est	fuit
+present → perfect	reddit	reddidit	potest	potuit
+present → perfect	stat	stetit	ducit	duxit
+present → perfect	stat	stetit	est	fuit
+present → perfect	stat	stetit	ponit	posuit
+present → perfect	stat	stetit	potest	potuit
+present → perfect	stat	stetit	quaerit	quaesivit
+present → perfect	stat	stetit	reddit	reddidit
+present → perfect	stat	stetit	vincit	vicit
+present → perfect	venit	venit	agit	egit
+present → perfect	venit	venit	audit	audivit
+present → perfect	venit	venit	credit	credidit
+present → perfect	venit	venit	ducit	duxit
+present → perfect	venit	venit	est	fuit
+present → perfect	venit	venit	iubet	iussit
+present → perfect	venit	venit	mittit	misit
+present → perfect	venit	venit	petit	petivit
+present → perfect	venit	venit	ponit	posuit
+present → perfect	venit	venit	potest	potuit
+present → perfect	venit	venit	quaerit	quaesivit
+present → perfect	venit	venit	reddit	reddidit
+present → perfect	venit	venit	stat	stetit
+present → perfect	venit	venit	vincit	vicit
+present → perfect	venit	venit	vult	voluit
+present → perfect	videt	vidit	agit	egit
+present → perfect	videt	vidit	audit	audivit
+present → perfect	videt	vidit	credit	credidit
+present → perfect	videt	vidit	dicit	dixit
+present → perfect	videt	vidit	ducit	duxit
+present → perfect	videt	vidit	est	fuit
+present → perfect	videt	vidit	facit	fecit
+present → perfect	videt	vidit	fert	tulit
+present → perfect	videt	vidit	habet	habuit
+present → perfect	videt	vidit	iubet	iussit
+present → perfect	videt	vidit	mittit	misit
+present → perfect	videt	vidit	petit	petivit
+present → perfect	videt	vidit	ponit	posuit
+present → perfect	videt	vidit	potest	potuit
+present → perfect	videt	vidit	quaerit	quaesivit
+present → perfect	videt	vidit	reddit	reddidit
+present → perfect	videt	vidit	stat	stetit
+present → perfect	videt	vidit	venit	venit
+present → perfect	videt	vidit	vincit	vicit
+present → perfect	videt	vidit	vult	voluit
+present → perfect	vincit	vicit	ducit	duxit
+present → perfect	vincit	vicit	est	fuit
+present → perfect	vincit	vicit	potest	potuit
+present → perfect	vincit	vicit	reddit	reddidit
+present → perfect	vult	voluit	agit	egit
+present → perfect	vult	voluit	audit	audivit
+present → perfect	vult	voluit	credit	credidit
+present → perfect	vult	voluit	ducit	duxit
+present → perfect	vult	voluit	est	fuit
+present → perfect	vult	voluit	iubet	iussit
+present → perfect	vult	voluit	mittit	misit
+present → perfect	vult	voluit	petit	petivit
+present → perfect	vult	voluit	ponit	posuit
+present → perfect	vult	voluit	potest	potuit
+present → perfect	vult	voluit	quaerit	quaesivit
+present → perfect	vult	voluit	reddit	reddidit
+present → perfect	vult	voluit	stat	stetit
+present → perfect	vult	voluit	vincit	vicit
