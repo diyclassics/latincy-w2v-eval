@@ -14,5 +14,4 @@ The following datasets are available:
 
 ## Report
 
-A report on the LatinCy word2vec Evaluation Datasets will be available here soon.
-
+A report on the LatinCy word2vec Evaluation Datasets is available [here](https://github.com/diyclassics/latincy-w2v-eval/blob/main/reports/burns-2025-latincy-w2v-evaluation-datasets-report.pdf).
