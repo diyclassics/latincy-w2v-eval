@@ -1,3 +1,5 @@
+> **Note:** Active development of evaluation code and datasets has moved to [latincy-vectors/eval/](https://github.com/diyclassics/latincy-vectors). This repository is maintained as an archive. The evaluation datasets and report below remain available.
+
 # LatinCy word2vec Evaluation Datasets
 
 Developed by [Patrick J. Burns](https://diyclassics.github.io/), William Bramwell [last updated 2025-07-31]
